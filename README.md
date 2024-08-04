@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://space-travel-fv.netlify.app" target="_blank">
-      <img src="./assets/img/demo/home/home-large.png" alt="Project Banner">
+      <img src="design/home-large.webp" alt="Project Banner">
     </a>
   <h3 align="center">Space Travel Website</h3>
 </div>
@@ -74,7 +74,7 @@ git clone {git remote URL}
 Use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 to launch a development local server with live reload feature for static & dynamic pages.
 
-
+<br/>
 <div align="center">
   <h3 align="center">Preview</h3>
 </div>
