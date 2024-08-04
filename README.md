@@ -81,44 +81,44 @@ to launch a development local server with live reload feature for static & dynam
 
 ### Home page demos
 <p align="center">
-  <td><img src="./assets/img/demo/home/home-large.png" width=500></td>
+  <td><img src="design/home-large.webp"></td>
 </p>
 <table>
   <tr>
-    <td><img src="./assets/img/demo/home/home-medium.png" width=500></td>
-    <td><img src="./assets/img/demo/home/home-small.png" width=500></td>
+    <td><img src="design/home-medium.webp" width=500></td>
+    <td><img src="design/home-small.webp" width=500></td>
   </tr>
  </table>
 
 ### Destination page demos
 <p align="center">
-  <td><img src="./assets/img/demo/destination/destination-large.png" width=500></td>
+  <td><img src="design/destination-large.webp"></td>
 </p>
 <table>
   <tr>
-    <td><img src="./assets/img/demo/destination/destination-medium.png" width=500></td>
-    <td><img src="./assets/img/demo/destination/destination-small.png" width=500></td>
+    <td><img src="design/destination-medium.webp" width=500></td>
+    <td><img src="design/destination-small.webp" width=500></td>
   </tr>
  </table>
 
 ### Crew page demos
 <p align="center">
-  <td><img src="./assets/img/demo/crew/crew-large.png" width=500></td>
+  <td><img src="design/crew-large.webp"></td>
 </p>
 <table>
   <tr>
-    <td><img src="./assets/img/demo/crew/crew-medium.png" width=500></td>
-    <td><img src="./assets/img/demo/crew/crew-small.png" width=500></td>
+    <td><img src="design/crew-medium.webp" width=500></td>
+    <td><img src="design/crew-small.webp" width=500></td>
   </tr>
  </table>
 
 ### Technology page demos
 <p align="center">
-  <td><img src="./assets/img/demo/technology/technology-large.png" width=500></td>
+  <td><img src="design/technology-large.webp"></td>
 </p>
 <table>
   <tr>
-    <td><img src="./assets/img/demo/technology/technology-medium.png" width=500></td>
-    <td><img src="./assets/img/demo/technology/technology-small.png" width=500></td>
+    <td><img src="design/technology-medium.webp" width=500></td>
+    <td><img src="design/technology-small.webp" width=500></td>
   </tr>
  </table>
