@@ -16,7 +16,7 @@
 
 **[EN]** A responsive Space Travel website built with HTML, CSS, and JavaScript, featuring a modern landing page with interactive elements. This project highlights responsive design principles, effective use of media queries for adaptive styling, and JavaScript-driven interactions to ensure a dynamic and engaging user experience across all devices.
 
-**[FR]** Un site web respnsive sur le thème de l'Espace construit avec HTML, CSS et JavaScript, présentant une page de destination moderne avec des éléments interactifs. Ce projet met en avant les principes de design responsive, l'utilisation efficace des media queries pour un style adaptatif, et des interactions JavaScript pour garantir une expérience utilisateur dynamique et engageante sur tous les appareils.
+**[FR]** Un site web responsive sur le thème de l'Espace construit avec HTML, CSS et JavaScript, présentant une page de destination moderne avec des éléments interactifs. Ce projet met en avant les principes de design responsive, l'utilisation efficace des media queries pour un style adaptatif, et des interactions JavaScript pour garantir une expérience utilisateur dynamique et engageante sur tous les appareils.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
