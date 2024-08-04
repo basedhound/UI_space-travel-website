@@ -20,9 +20,11 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- HTML
-- CSS
-- JavaScript
+- **HTML** (HyperText Markup Language) is the standard markup language used for creating web pages. It provides the structure of a webpage by defining elements such as headings, paragraphs, links, images, and other content. HTML elements are represented by tags, which tell the browser how to display the content.
+
+- **CSS** (Cascading Style Sheets) is a style sheet language used to describe the presentation of a document written in HTML. CSS controls the layout, colors, fonts, and overall visual appearance of web pages. By separating content from design, CSS enables developers to maintain and update the visual style of multiple pages efficiently.
+  
+- **JavaScript** is a versatile, high-level programming language commonly used for web development. It enables interactive elements on web pages, such as dynamic content updates, form validation, animations, and user interface enhancements. JavaScript runs in the browser and is integral to building modern, interactive websites and web applications.
 
 ## <br/> <a name="features">📝 Features</a>
 - `Utility classes`
