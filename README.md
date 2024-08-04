@@ -80,9 +80,9 @@ to launch a development local server with live reload feature for static & dynam
 </div>
 
 ### Home page demos
-<p align="center">
-  <td><img src="design/home-large.webp"></td>
-</p>
+<div align="center">
+  <img src="design/home-large.webp">
+</div>
 <table>
   <tr>
     <td><img src="design/home-medium.webp" width=500></td>
@@ -91,9 +91,9 @@ to launch a development local server with live reload feature for static & dynam
  </table>
 
 ### Destination page demos
-<p align="center">
-  <td><img src="design/destination-large.webp"></td>
-</p>
+<div align="center">
+  <img src="design/destination-large.webp">
+</div>
 <table>
   <tr>
     <td><img src="design/destination-medium.webp" width=500></td>
@@ -102,9 +102,9 @@ to launch a development local server with live reload feature for static & dynam
  </table>
 
 ### Crew page demos
-<p align="center">
-  <td><img src="design/crew-large.webp"></td>
-</p>
+<div align="center">
+  <img src="design/crew-large.webp">
+</div>
 <table>
   <tr>
     <td><img src="design/crew-medium.webp" width=500></td>
@@ -113,9 +113,9 @@ to launch a development local server with live reload feature for static & dynam
  </table>
 
 ### Technology page demos
-<p align="center">
-  <td><img src="design/technology-large.webp"></td>
-</p>
+<div align="center">
+  <img src="design/technology-large.webp">
+</div>
 <table>
   <tr>
     <td><img src="design/technology-medium.webp" width=500></td>
