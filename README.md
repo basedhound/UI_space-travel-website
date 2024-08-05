@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://space-travel-fv.netlify.app" target="_blank">
-      <img src="design/home-large.webp" alt="Project Banner">
+      <img src="design/home-large.png" alt="Project Banner">
     </a>
   <h3 align="center">Space Travel Website</h3>
 </div>
@@ -83,44 +83,44 @@ to launch a development local server with live reload feature for static & dynam
 
 ### Home page demos
 <div align="center">
-  <img src="design/home-large.webp">
+  <img src="design/home-large.png">
 </div>
 <table>
   <tr>
-    <td><img src="design/home-medium.webp" width=500></td>
-    <td><img src="design/home-small.webp" width=500></td>
+    <td><img src="design/home-medium.png" width=500></td>
+    <td><img src="design/home-small.png" width=500></td>
   </tr>
  </table>
 
 ### Destination page demos
 <div align="center">
-  <img src="design/destination-large.webp">
+  <img src="design/destination-large.png">
 </div>
 <table>
   <tr>
-    <td><img src="design/destination-medium.webp" width=500></td>
-    <td><img src="design/destination-small.webp" width=500></td>
+    <td><img src="design/destination-medium.png" width=500></td>
+    <td><img src="design/destination-small.png" width=500></td>
   </tr>
  </table>
 
 ### Crew page demos
 <div align="center">
-  <img src="design/crew-large.webp">
+  <img src="design/crew-large.png">
 </div>
 <table>
   <tr>
-    <td><img src="design/crew-medium.webp" width=500></td>
-    <td><img src="design/crew-small.webp" width=500></td>
+    <td><img src="design/crew-medium.png" width=500></td>
+    <td><img src="design/crew-small.png" width=500></td>
   </tr>
  </table>
 
 ### Technology page demos
 <div align="center">
-  <img src="design/technology-large.webp">
+  <img src="design/technology-large.png">
 </div>
 <table>
   <tr>
-    <td><img src="design/technology-medium.webp" width=500></td>
-    <td><img src="design/technology-small.webp" width=500></td>
+    <td><img src="design/technology-medium.png" width=500></td>
+    <td><img src="design/technology-small.png" width=500></td>
   </tr>
  </table>
